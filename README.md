@@ -1,2 +1,30 @@
-# SDF06_BCL2401_RORMAS373_RorisangMasilo
- A dupe social media profile page
+## **SDF06 CodeSpace Pets Instagram Profile Project**
+
+### Overview
+
+In this project, I recreated a simplified version of a social media (Instagram, TikTok) profile page focusing on CSS layout and styling. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices. The script entails a social media profile page layout consisting of CSS and HTML language. No JavaScript language was used for the functionaility aspect of the profile page.
+
+### Reflections
+
+### Areas of Mastery
+
+- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
+- **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
+- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
+
+#### Challenges Faced
+- **Display**: Despite manipulating the content to be displayed in flex, in addition to the grids.
+- **Responsive Design for Smaller Screens**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
+- **Hover and Focus Effects**: I mainly struggled with the 'visually hidden' element. To incorporate it as it hides the image and displays the content upon the cursor hovering. Implementing interactive elements like hover and focus effects required more practice and research to get them right.
+
+#### Areas for Improvement
+
+- **Advanced CSS Properties**: I want to explore more advanced CSS properties and animations to enhance the user experience.
+- **Code Optimization**: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
+- **Creative Design Choices**: I adhered closely to the Instagram layout for practice but would like to experiment with more creative design choices in future projects.
+
+#### Overall Learning Experience
+
+This project was an invaluable hands-on experience in applying CSS layout techniques, creating a social media. It helped solidify my understanding of CSS and its practical applications in web development. Joys of coding: Developing a social media page is exciting as I got to re-imagine my own social media application being recreated and dedicated to the design.
+
+
